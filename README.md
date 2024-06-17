@@ -1,6 +1,6 @@
 ### Olá meu nome é Cauã
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yurigriebeler&show_icons=true&theme=onedark" />
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=cauadeschamps&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 
